@@ -1,0 +1,14 @@
+Queue elements are:
+1
+2
+3
+4
+Dequeued element: 1
+Queue elements are:
+2
+3
+4
+Dequeued element: 2
+Queue elements are:
+3
+4
