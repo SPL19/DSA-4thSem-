@@ -1,0 +1,5 @@
+Customers processed at checkout:
+Customer ID: 101
+Customer ID: 102
+Customer ID: 103
+Customer ID: 104
