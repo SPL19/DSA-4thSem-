@@ -1,0 +1,4 @@
+Hotel Room Booking Status:
+Room Number: 101, Guest Name: John Doe
+Room Number: 102, Guest Name: Jane Smith
+Room Number: 103, Guest Name: Michael Johnson
