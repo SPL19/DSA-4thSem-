@@ -1,0 +1,4 @@
+Infix: e / )d - c * b( + a	Prefix: -+a*bc/de
+Infix: )q / p( - z * )y + x(	Prefix: -+x*yz/pq
+Infix: q / p - )o + n( * m	Prefix: -+*mno/pq
+Infix: e / d - c * b + a	Prefix: -+a*bc/de
