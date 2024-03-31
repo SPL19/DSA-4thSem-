@@ -1,0 +1,4 @@
+Student Grade Book:
+Name: John Doe, ID: 101, Grade: 85.50
+Name: Jane Smith, ID: 102, Grade: 90.00
+Name: Michael Johnson, ID: 103, Grade: 78.25
