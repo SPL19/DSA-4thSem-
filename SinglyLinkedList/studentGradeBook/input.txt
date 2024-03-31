@@ -1,0 +1,10 @@
+3
+John Doe
+1001
+85.5
+Jane Smith
+1002
+78.9
+Michael Johnson
+1003
+92.3
