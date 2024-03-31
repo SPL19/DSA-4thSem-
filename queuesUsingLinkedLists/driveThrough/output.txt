@@ -1,0 +1,6 @@
+Orders processed at the drive-through:
+Car ID: 1001
+Car ID: 1002
+Car ID: 1003
+Car ID: 1004
+Car ID: 1005
