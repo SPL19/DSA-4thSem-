@@ -1,0 +1,4 @@
+1001 John Doe IT 50000.00
+1002 Jane Smith HR 60000.00
+1003 Michael Johnson Finance 70000.00
+1004 E Johnson Finance 80000.00
