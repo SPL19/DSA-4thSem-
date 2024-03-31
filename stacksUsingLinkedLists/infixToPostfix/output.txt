@@ -1,0 +1,4 @@
+Infix: a + (b * c - d) / e	Postfix: a  b  c * d-  e/+
+Infix: ((x + y) * z - (p / q))	Postfix: x  y+  z * p  q/-
+Infix: m * (n + o) - p / q	Postfix: m  n  o+ * p  q/-
+Infix: a + b * c - d / e	Postfix: a  b  c *+ d  e/-
